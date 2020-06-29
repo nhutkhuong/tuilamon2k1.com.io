@@ -5,10 +5,9 @@
 .outer{
 	width: 1000px;
 	height: 1910px;
-	background: #FFFFFF;
 	margin: 0 auto;
 	padding-top: 10px;
-	
+	background-image: url("../3.jpg");
 }
 .header{
 	width: 980px;
