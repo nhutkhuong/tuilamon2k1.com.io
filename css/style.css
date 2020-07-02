@@ -35,7 +35,7 @@ body{
 	height: 800px;
 	background: #FFFFFF;
 	margin: 0 auto;
-	border:1px solid #67C2E3;
+	margin-top: -250px;
 }
 .content .ct1{
 	width: 400px;
@@ -67,4 +67,81 @@ body{
 	margin-left: 10px;
 	width: 370px;
 
+}
+.content .ct3{
+	width: 300px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 280px;
+}
+.content .ct3 h1{
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: #67C2E3;
+}
+.content .ct3 .hb1{
+	float:left;
+	margin-left: 20px;
+}
+.content .ct3 .hb2{
+	float: right;
+	margin-right: 20px;
+}
+.content .ct3 .hb3{
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.content .ct3 .hb4{
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.content .ct4 .hh{
+	width: 500px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 450px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+.content .ct4 .hh1{
+	float: left;
+	color: #67C2E3;
+	margin-left: 20px;
+}
+.content .ct4 .hh2{
+	float: right;
+	margin-top: 40px;
+}
+.content .ct4 .hh2 i{
+	font-size: 30px;
+	color: #67C2E3;
+}
+.footer{
+	width: 810px;
+	height: 150px;
+	background: #67C2E3;
+	margin: 0 auto;
+	margin-top: 0px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: #FFFFFF;
+	text-align: center;
+}
+.footer .ft{
+	text-align: center;
+	margin-left: 160px;
+	width: 700px;
+	height: 100px;
+	padding: 30px;
+}
+.footer .ft .f1{
+	float: left;
+}
+.footer .ft .f2{
+	float: left;
+	margin-left: 20px;
+}
+.footer .ft .f3{
+	float: left;
+	margin-left: 20px;
 }
